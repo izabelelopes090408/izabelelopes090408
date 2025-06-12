@@ -1,5 +1,5 @@
 ### boas vindas ao meu perfil
--aluna izabele lopes
+-aluna, izabele lopes
 -estou no ensino medio no 3C
 -tenho 17 anos de idade
 -interessado a estudar programação 
